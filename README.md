@@ -17,6 +17,8 @@ Creates a README file in VS code via the terminal.
 JavaScript, node.js, JSON, Markdown
 
 ## Screenshots 
+<img alt="Screenshot of Index.js code" src="https://github.com/AndrewBlanchard/README-Generator/blob/master/Screenshots/IndexJs%20Screenshot.png?raw=true"
+<img alt="Screenshot of Markdown.js code" src="https://github.com/AndrewBlanchard/README-Generator/blob/master/Screenshots/MarkdownJS%20Screenshot%20.png?raw=true"
 
 ## Contributing
 Me, myslef, and I](https://www.npmjs.com/package/inquirer/v/8.2.4)
