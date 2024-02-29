@@ -18,6 +18,7 @@ JavaScript, node.js, JSON, Markdown
 
 ## Screenshots 
 <img alt="Screenshot of Index.js code" src="https://github.com/AndrewBlanchard/README-Generator/blob/master/Screenshots/IndexJs%20Screenshot.png"
+
 <img alt="Screenshot of Markdown.js code" src="https://github.com/AndrewBlanchard/README-Generator/blob/master/Screenshots/MarkdownJS%20Screenshot%20.png"
 
 ## Contributing
