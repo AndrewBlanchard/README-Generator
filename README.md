@@ -16,14 +16,10 @@ Creates a README file in VS code via the terminal.
 ## Installation
 JavaScript, node.js, JSON, Markdown
 
-## Usage
-Creates a README file into your local repo by answering a series of questions in the terminal.
+## Screenshots 
 
 ## Contributing
-Me, myslef, and I
-
-## Tests
-No bugs on current build. 
+Me, myslef, and I](https://www.npmjs.com/package/inquirer/v/8.2.4)
 
 ## License
 
