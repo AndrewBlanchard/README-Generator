@@ -5,8 +5,8 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
+- [Screenshots](#screenshots)
+- [Sources](#sources)
 - [License](#license)
 - [Questions](#questions)
 
@@ -17,7 +17,7 @@ Creates a README file in VS code via the terminal.
 JavaScript, node.js, JSON, Markdown
 
 ## Usage
-Creates a README file. 
+Creates a README file into your local repo by answering a series of questions in the terminal.
 
 ## Contributing
 Me, myslef, and I
