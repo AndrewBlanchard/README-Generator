@@ -1,20 +1,29 @@
 
-#  README Generator
+# README Generator
+
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [License](#license)
+- [Questions](#questions)
 
 ## Description
-Creates a README file into your current local repo by answering a series of questions in the terminal. 
+Creates a README file in VS code via the terminal.
 
 ## Installation
-Javascript, node.js, JSON, Markdown
+JavaScript, node.js, JSON, Markdown
 
 ## Usage
-Creates a README file. 
+Creates a README file into your local repo by answering a series of question in the terminal.
 
 ## Contributing
-Me, myslef, and I
+Me, myself, and I.
 
 ## Tests
-No bugs on current build. 
+No bugs in current build. 
 
 ## License
 
@@ -24,4 +33,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
         
 
 ## Questions
-For any questions, please contact [AndrewBlanchard](https://github.com/AndrewBlanchard) via email at email@gmail.com .
+For any questions, please contact [AndrewBlanchard](https://github.com/AndrewBlanchard) via email at email@gmail.com.

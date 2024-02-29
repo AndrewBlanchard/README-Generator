@@ -7,7 +7,7 @@ function renderLicenseSection(license) {
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
         `,
-    // Add other license sections here if needed
+ 
   };
   if (license in licenseSections) {
     return licenseSections[license];
@@ -20,6 +20,15 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 function generateMarkdown(data) {
   return `
 # ${data.title}
+
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [License](#license)
+- [Questions](#questions)
 
 ## Description
 ${data.description}
