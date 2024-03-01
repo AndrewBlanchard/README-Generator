@@ -1,6 +1,8 @@
 
 # README Generator
 
+## Link to video demo: https://youtu.be/n0vhjRDzIaY 
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
